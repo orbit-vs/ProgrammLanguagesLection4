@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/bin/Debug/net6.0/Lection4
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/bin/Debug/net6.0/Lection4.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/bin/Debug/net6.0/Lection4.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/bin/Debug/net6.0/Lection4.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/bin/Debug/net6.0/Lection4.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/refint/Lection4.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/Lection4.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection4/Lection4/obj/Debug/net6.0/ref/Lection4.dll
